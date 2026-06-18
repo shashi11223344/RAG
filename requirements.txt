@@ -1,0 +1,22 @@
+# Backend
+fastapi>=0.115.6
+uvicorn[standard]>=0.32.1
+pydantic>=2.10.3
+
+# RAG / ML
+faiss-cpu==1.14.3
+sentence-transformers>=3.3.1
+PyMuPDF>=1.25.1
+numpy>=1.26.4
+
+# LLM
+groq>=0.13.0
+
+# Frontend
+streamlit>=1.41.1
+requests>=2.32.3
+plotly>=5.24.1
+pandas>=2.2.3
+
+# Utilities
+python-dotenv>=1.0.1
